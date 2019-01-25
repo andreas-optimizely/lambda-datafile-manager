@@ -1,0 +1,21 @@
+{
+  "name": "datafile-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.278.1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-vinyl-zip": "^2.1.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"  
+  }
+}
